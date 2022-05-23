@@ -24,10 +24,11 @@
 
 
 ## Menú Principal :
-![Screenshot_20210723-110234_Termux](https://user-images.githubusercontent.com/81049859/126803784-3e566188-c393-406a-a6a7-64939611a51c.png)
+![Screenshot_20220522-210403_Termux](https://user-images.githubusercontent.com/81049859/169725308-6dd7d1a7-26fa-41c3-a230-bdf682f72af6.png)
 
-## Menú Secundario :
-![Screenshot_20210723-110304_Termux](https://user-images.githubusercontent.com/81049859/126803804-e26928fb-68ed-4ad8-9029-18b2ec49e25c.png)
+
+
+
 
 ## BashColorCj7 :
 * Curso complementario a [BashScriptCj7](https://github.com/Juliocj7/BashScriptCj7)
