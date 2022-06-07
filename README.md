@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,13 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220522-210403_Termux](https://user-images.githubusercontent.com/81049859/169725308-6dd7d1a7-26fa-41c3-a230-bdf682f72af6.png)
-
-
-
-
 
 ## BashColorCj7 :
 * Curso complementario a [BashScriptCj7](https://github.com/Juliocj7/BashScriptCj7)
@@ -44,8 +38,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/BashColorCj7`
 
 * `cd BashColorCj7`
