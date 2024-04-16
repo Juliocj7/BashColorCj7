@@ -45,7 +45,11 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328337](https://github.com/Juliocj7/BashColorCj7/assets/81049859/ad75f931-5443-48d6-a7be-4bbca196f533)
 
-* Complemento a este curso: [AQUI](https://github.com/Juliocj7/BashScriptCj7)
+<div align="center">
+
+  > Complemento a este curso: [**`AQUI`**](https://github.com/Juliocj7/BashScriptCj7)
+
+</div>
 
 ## BashColorCj7 :
 * Excelente guía sobre los colores en shell script.
@@ -56,17 +60,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/BashColorCj7`
-
-* `cd BashColorCj7`
-
-* `chmod +x *`
-
-* `./BashColorCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/BashColorCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd BashColorCj7 && chmod +x * && ./BashColorCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
