@@ -52,7 +52,7 @@ ______________________________________________________
 </div>
 
 ## BashColorCj7 :
-* Curso básico de **Colors in Shell Scripting** (guía e introducción a los colores en bas).
+* Curso básico de **Colors in Shell Scripting** (guía e introducción a los colores en BashScript).
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
