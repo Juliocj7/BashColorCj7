@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328337](https://github.com/Juliocj7/BashColorCj7/assets/81049859/ad75f931-5443-48d6-a7be-4bbca196f533)
+[![1000328337](https://github.com/user-attachments/assets/fec99397-fde9-40f7-9607-2e166458f18c)](#---)
 
 <div align="center">
 
